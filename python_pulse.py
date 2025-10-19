@@ -42,4 +42,3 @@ CREATE TABLE profiles (
 );
 """)
 
-connection.commit()
